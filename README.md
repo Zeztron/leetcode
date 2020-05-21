@@ -3,4 +3,6 @@
 ### Series of leetcode problems 
 
 ---
-- two_sum
+- two sum
+- remove element
+- roman to int
