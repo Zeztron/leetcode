@@ -8,3 +8,4 @@
 - roman to int
 - find duplicate
 - contains duplicate
+- length of last word
