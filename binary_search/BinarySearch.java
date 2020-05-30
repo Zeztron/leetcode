@@ -15,6 +15,6 @@ class Solution {
             }
         }
 
-        return -1;s
+        return -1;
     }
 }
