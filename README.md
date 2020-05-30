@@ -9,3 +9,5 @@
 - find duplicate
 - contains duplicate
 - length of last word
+- binary search
+- reverse string
