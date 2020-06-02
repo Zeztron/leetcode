@@ -36,6 +36,4 @@ class Solution {
     arr[l] = arr[r];
     arr[r] = temp;
   }
-}class QuickSort {
-  
 }
